@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="hot_pink">#FF33A1</color>
+        <color name="sky_blue">#33A1FF</color>
+        <color name="lime_lush">#A1FF33</color>
+        <color name="vivid_orange">#FF5733</color>
+        <color name="royal_blue">#3375FF</color>
+        <color name="mint_green">#33FFA1</color>
+        <color name="purple">#A133FF</color>
+        <color name="fiery_orange">#FF5733</color>
+        <color name="deep_pink">#FF3380</color>
+        <color name="cerulean_blue">#3380FF</color>
+        <color name="spring_green">#80FF33</color>
+        <color name="medium_sea_green">#33FF80</color>
+        <color name="electric_purple">#8033FF</color>
+        <color name="orange_sunset">#FF8033</color>
+        <color name="steel_blue">#3380A1</color>
+        <color name="pale_lime">#A1FF80</color>
+        <color name="periwinkle">#A180FF</color>
+        <color name="peach">#FFA180</color>
+        <color name="lavender_blue">#8080FF</color>
+        <color name="salmon">#FF8080</color>
+        <color name="olive_drab">#808033</color>
+        <color name="teal">#338080</color>
+        <color name="light_periwinkle">#A1A1FF</color>
+        <color name="light_coral">#FFA1A1</color>
+        <color name="powder_blue">#80A1FF</color>
+        <color name="pale_green">#A1FF80</color>
+        <color name="purple_plum">#8033A1</color>
+        <color name="mustard">#A18033</color>
+        <color name="light_emerald">#80FFA1</color>
+        <color name="rose_quartz">#A180A1</color>
+        <color name="blush_pink">#FF80A1</color>
+        <color name="bright_lime">#A1FF33</color>
+        <color name="violet_rose">#A133A1</color>
+        <color name="orchid">#FFA1FF</color>
+        <color name="pale_turquoise">#80A1A1</color>
+        <color name="light_taupe">#A1A180</color>
+        <color name="light_pink">#FFA1A1</color>
+        <color name="pale_spring_green">#A1FFA1</color>
+        <color name="olive_green">#A1A133</color>
+        <color name="cool_grey">#A1A1A1</color>
+        <color name="deep_blue">#3333FF</color>
+        <color name="lime_green">#33FF33</color>
+        <color name="magenta">#FF33FF</color>
+        <color name="crimson_red">#FF3333</color>
+        <color name="cyan">#33FFFF</color>
+
+        Here’s a set of gradient color codes featuring combinations of green, yellow, and blue shades. These can be used to create beautiful gradient effects in your Android XML layouts.
+
+        ### Green-Yellow Gradients
+        xml
+        <color name="green_yellow_gradient1_start">#00FF00</color>
+        <color name="green_yellow_gradient1_end">#FFFF00</color>
+
+        <color name="green_yellow_gradient2_start">#66FF66</color>
+        <color name="green_yellow_gradient2_end">#FFFF66</color>
+
+        <color name="green_yellow_gradient3_start">#99FF99</color>
+        <color name="green_yellow_gradient3_end">#FFFF99</color>
+
+        <color name="green_yellow_gradient4_start">#33CC33</color>
+        <color name="green_yellow_gradient4_end">#CCCC33</color>
+
+        <color name="green_yellow_gradient5_start">#66CC66</color>
+        <color name="green_yellow_gradient5_end">#CCCC66</color>
+
+
+        ### Green-Blue Gradients
+        xml
+        <color name="green_blue_gradient1_start">#00FF00</color>
+        <color name="green_blue_gradient1_end">#0000FF</color>
+
+        <color name="green_blue_gradient2_start">#66FF66</color>
+        <color name="green_blue_gradient2_end">#6666FF</color>
+
+        <color name="green_blue_gradient3_start">#99FF99</color>
+        <color name="green_blue_gradient3_end">#9999FF</color>
+
+        <color name="green_blue_gradient4_start">#33CC33</color>
+        <color name="green_blue_gradient4_end">#3333CC</color>
+
+        <color name="green_blue_gradient5_start">#66CC66</color>
+        <color name="green_blue_gradient5_end">#6666CC</color>
+
+
+        ### Yellow-Blue Gradients
+        xml
+        <color name="yellow_blue_gradient1_start">#FFFF00</color>
+        <color name="yellow_blue_gradient1_end">#0000FF</color>
+
+        <color name="yellow_blue_gradient2_start">#FFFF66</color>
+        <color name="yellow_blue_gradient2_end">#6666FF</color>
+
+        <color name="yellow_blue_gradient3_start">#FFFF99</color>
+        <color name="yellow_blue_gradient3_end">#9999FF</color>
+
+        <color name="yellow_blue_gradient4_start">#CCCC33</color>
+        <color name="yellow_blue_gradient4_end">#3333CC</color>
+
+        <color name="yellow_blue_gradient5_start">#CCCC66</color>
+        <color name="yellow_blue_gradient5_end">#6666CC</color>
+
+</resources>
